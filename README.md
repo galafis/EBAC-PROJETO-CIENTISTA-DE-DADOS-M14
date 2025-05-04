@@ -47,4 +47,5 @@ Este projeto faz parte do curso de Formação Cientista de Dados da EBAC e abord
 ---
 
 *Gabriel Demetrios Lafis*  
-[LinkedIn](www.linkedin.com/in/gabriel-demetrios-lafis-62197711b)
+
+
